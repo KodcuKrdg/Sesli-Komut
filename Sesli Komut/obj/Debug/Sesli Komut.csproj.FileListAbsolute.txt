@@ -1,0 +1,10 @@
+E:\Kod\C#\Sesli Komut\Sesli Komut\bin\Debug\Sesli Komut.exe.config
+E:\Kod\C#\Sesli Komut\Sesli Komut\bin\Debug\Sesli Komut.exe
+E:\Kod\C#\Sesli Komut\Sesli Komut\bin\Debug\Sesli Komut.pdb
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli Komut.csprojAssemblyReference.cache
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli_Komut.Form1.resources
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli_Komut.Properties.Resources.resources
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli Komut.csproj.GenerateResource.cache
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli Komut.csproj.CoreCompileInputs.cache
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli Komut.exe
+E:\Kod\C#\Sesli Komut\Sesli Komut\obj\Debug\Sesli Komut.pdb
